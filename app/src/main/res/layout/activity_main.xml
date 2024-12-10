@@ -11,7 +11,6 @@
         android:text="Wydarzenie w Sudetach"
         android:padding="-10dp"
         android:textSize="30dp"
-        android:gravity="center"
         />
 
     <ImageView
