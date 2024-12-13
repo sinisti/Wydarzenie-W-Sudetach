@@ -9,7 +9,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:text="Wydarzenie w Sudetach"
-        android:padding="-10dp"
+        android:padding="10dp"
         android:textSize="30dp"
         />
 
